@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Way2.ProjectRenamer", "Way2.ProjectRenamer\Way2.ProjectRenamer.csproj", "{8099D679-0540-47DE-AE04-977103C19682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Way2.ProjectRenamer.Tests", "Way2.ProjectRenamer.Tests\Way2.ProjectRenamer.Tests.csproj", "{836AFB7D-5E12-4390-BBC1-B66873E31406}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8099D679-0540-47DE-AE04-977103C19682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8099D679-0540-47DE-AE04-977103C19682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8099D679-0540-47DE-AE04-977103C19682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8099D679-0540-47DE-AE04-977103C19682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836AFB7D-5E12-4390-BBC1-B66873E31406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836AFB7D-5E12-4390-BBC1-B66873E31406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836AFB7D-5E12-4390-BBC1-B66873E31406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836AFB7D-5E12-4390-BBC1-B66873E31406}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
